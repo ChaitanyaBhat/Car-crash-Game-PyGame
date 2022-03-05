@@ -1,4 +1,4 @@
-# CAR CRASH GAME
+# CAR CRASH GAME:
 
 Following is the UI of this game:
 
